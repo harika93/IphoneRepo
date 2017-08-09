@@ -2,14 +2,14 @@ package org.launchcode;
 
 public class Main {
 
-    public static void main(String[] args) 
+    public static void main(String[] args) {
 	    // Ashish
-	    system.out.print("hey");
-	system.out.print("welcome here");
-	system.out.print("oy here");
+	    System.out.print("hey");
+	System.out.print("welcome here");
+	System.out.print("oy here");
 	   //Harika
-    system.out.print("Hello world");
-   system.out.print("heyyy");
+    System.out.print("Hello world");
+   System.out.print("heyyy");
 	
     }
 }
