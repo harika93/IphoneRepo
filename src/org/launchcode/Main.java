@@ -21,16 +21,15 @@ public class Main {
         }
 
         //Harika
-        System.out.print("Hello world");
-        System.out.print("heyyy");
-        System.out.print("heyyyergf1");
+        System.out.println("Hello world");
+        System.out.println("heyyy");
+        System.out.println("heyyyergf1");
         //varsha
-        System.out.print("updating...");
-        System.out.print("Merge conflict...");
+        System.out.println("updating...");
+        System.out.println("Merge conflict...");
 //varsha
-        System.out.print("i got it ");
-        System.out.print("atlast");
-        System.out.print("today is so long day ");
+        System.out.println("i got it ");
+        System.out.println("atlast");
 
 
     }
