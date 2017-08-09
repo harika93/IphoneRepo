@@ -10,6 +10,7 @@ public class Main {
         //Harika
         System.out.print("Hello world");
         System.out.print("heyyy");
+        System.out.print("heyyy");
 
     }
 }
