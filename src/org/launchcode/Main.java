@@ -25,7 +25,7 @@ public class Main {
         System.out.print("heyyy");
         //varsha
         System.out.print("updating...");
-        System.out.print("heyyy...!!!");
+        System.out.print("Merge conflict...");
 
 
     }
