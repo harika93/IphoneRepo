@@ -18,7 +18,9 @@ public class Main {
             z = x + y;
             System.out.println("Sum of entered integers = "+z);
             System.out.println("addition succefull");
+
         }
+        System.out.println("the end");
 
         //Harika
         System.out.println("Hello world");
