@@ -9,6 +9,7 @@ public class Main {
         System.out.print("oy here");
         System.out.print("this a merge check");
         System.out.print("branch creation");
+        System.out.print("merge conflict chk");
 
         //Harika
         System.out.print("Hello world");
